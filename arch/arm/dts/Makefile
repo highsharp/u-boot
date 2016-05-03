@@ -158,6 +158,7 @@ dtb-$(CONFIG_MACH_SUN6I) += \
 dtb-$(CONFIG_MACH_SUN7I) += \
 	sun7i-a20-ainol-aw1.dtb \
 	sun7i-a20-bananapi.dtb \
+	sun7i-a20-bananapi-m1-plus.dtb \
 	sun7i-a20-bananapro.dtb \
 	sun7i-a20-cubieboard2.dtb \
 	sun7i-a20-cubietruck.dtb \
